@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FirstMobileApp</string>
+    <string name="day">Jour</string>
+    <string name="night">Nuit</string>
+    <string name="todo">TODO</string>
+</resources>
